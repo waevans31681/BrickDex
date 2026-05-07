@@ -1,0 +1,10 @@
+{
+  "name": "BrickDex",
+  "short_name": "BrickDex",
+  "description": "Personal LEGO set collection tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#E3000B",
+  "icons": []
+}
